@@ -1,31 +1,24 @@
 <?php include'header.php'; ?>
 <section>
-  <div class="uk-text-center" uk-grid>
-    <div class="uk-width-1-3">
-      <a href="area.php">  <div class="uk-card uk-card-default uk-padding uk-padding-large">
+  <div class="uk-flex uk-flex-middle uk-flex-center">
+<div class="uk-card uk-card-default uk-padding">
+<h3> تسجيل الدخول </h3>
+<form class="" action="index.html" method="post">
+  <div class="uk-margin">
+           <label for=""> إسم المستخدم </label>
+           <input class="uk-input" type="text" placeholder="إسم المستخدم">
+       </div>
+       <div class="uk-margin">
+                <label for=""> كلمة السر </label>
+                <input class="uk-input" type="text" placeholder="كلمة السر">
+            </div>
+            <div class="uk-margin">
+              <a class="uk-button uk-button-default" type="button" href="district.php" > تسجيل الدخول </a>
+              <button class="uk-button uk-button-default" type="button" > خروج </button>
+            </div>
 
-                  <h1> السويس </h1>
-
-
-      </div></a>
-    </div>
-    <div class="uk-width-1-3">
-      <a href="area.php">  <div class="uk-card uk-card-default uk-padding uk-padding-large">
-
-                  <h1> الجناين </h1>
-
-
-      </div></a>
-    </div>
-    <div class="uk-width-1-3">
-      <a href="#">  <div class="uk-card uk-card-default uk-padding uk-padding-large">
-
-                  <h1> إضافة قسم جديد </h1>
-
-
-      </div></a>
-    </div>
-
+</form>
+</div>
   </div>
 </section>
 <?php include'footer.php'; ?>

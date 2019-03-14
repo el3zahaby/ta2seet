@@ -27,7 +27,7 @@
             <td>1</td>
             <td><a href="clientpage.php"> بولا نجيب إبراهيم </a></td>
             <td><a href="area.php"> السويس </a></td>
-            <td><a href="#"> مديرية الصحة </a></td>
+            <td><a href="clients.php"> مديرية الصحة </a></td>
             <td>2000</td>
             <td>دقع 100ج</td>
             <td>01023989330</td>
@@ -38,7 +38,7 @@
             <td>2</td>
             <td><a href="clientpage.php"> بولا نجيب إبراهيم </a></td>
             <td><a href="area.php"> السويس </a></td>
-            <td><a href="#"> مديرية الصحة </a></td>
+            <td><a href="clients.php"> مديرية الصحة </a></td>
             <td>2000</td>
             <td>دقع 100ج</td>
             <td>01023989330</td>
@@ -50,7 +50,7 @@
             <td>3</td>
             <td><a href="clientpage.php"> بولا نجيب إبراهيم </a></td>
             <td><a href="area.php"> السويس </a></td>
-            <td><a href="#"> مديرية الصحة </a></td>
+            <td><a href="clients.php"> مديرية الصحة </a></td>
             <td>2000</td>
             <td>دقع 100ج</td>
             <td>01023989330</td>
